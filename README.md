@@ -1,1 +1,1 @@
-Used for Keystroke Inferring using Vibrations
+Used for Keystroke Inferring using phone sensors
